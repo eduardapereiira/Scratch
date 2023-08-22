@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/eduardapereiira/scratch)
 
-![scratch](https://github.com/eduardapereiira/Scratch/commit/3fff45926f996e5516d4b99c4a824efeae14574e)
+![scratch](https://github.com/eduardapereiira/Scratch/blob/main/assets/icons/scratch.png)
 
 # Scratch
 Introdução a logíca de programação no scratch
