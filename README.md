@@ -6,4 +6,6 @@
 Introdução a logíca de programação no scratch
 
 Aluna: Maria Eduara
+## Projetos
+[Cálculo da média](https://scratch.mit.edu/projects/881964936/)
 
