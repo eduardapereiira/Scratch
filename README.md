@@ -14,3 +14,5 @@ Aluna: Maria Eduarda
 - [NOT](https://scratch.mit.edu/projects/888086305/)
 - [Calcular tijolos](https://scratch.mit.edu/projects/889251503/)
 - [VOTO](https://scratch.mit.edu/projects/889251505/)
+
+![certificado](https://github.com/eduardapereiira/Scratch/blob/main/assets/icons/certificado.jpg)
