@@ -5,7 +5,7 @@
 # Scratch
 Introdução a logíca de programação no scratch
 
-Aluna: Maria Eduara
+Aluna: Maria Eduarda
 ## Projetos
 - [Cálculo da média](https://scratch.mit.edu/projects/881964936/)
 - [Preço de cusco X Preço de venda](https://scratch.mit.edu/projects/884630010/)
