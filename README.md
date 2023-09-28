@@ -14,5 +14,10 @@ Aluna: Maria Eduarda
 - [NOT](https://scratch.mit.edu/projects/888086305/)
 - [Calcular tijolos](https://scratch.mit.edu/projects/889251503/)
 - [VOTO](https://scratch.mit.edu/projects/889251505/)
+- [Etanol X Gasolina](https://scratch.mit.edu/projects/887233497/)
+- [Fahrenheit para celsius](fahrenheit para celsius)
+- [Regra de tres](https://scratch.mit.edu/projects/882638102/)
+- [Libras para kg/h](https://scratch.mit.edu/projects/884623405/)
+- [Velocidade em Milhas X km](https://scratch.mit.edu/projects/884618139/)
 
 ![certificado](https://github.com/eduardapereiira/Scratch/blob/main/assets/icons/certificado.jpg)
